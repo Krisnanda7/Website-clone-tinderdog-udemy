@@ -27,7 +27,7 @@
   border-radius: 50%;
 }
 
-@media (min-width: 320px) and (max-width: 1600px) {
+@media (min-width: 320px) and (max-width: 1000px) {
     * {
     max-width: 100%;
   }
